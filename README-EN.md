@@ -35,8 +35,7 @@ The Excel dataset used in this dashboard was generated through an ETL (Extractio
 
 ## 📁 Data Structure
 
-- `Campanhas.xlsx`
-
+- [Campanhas.xlsx](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.xlsm)
 
 ## 💡 Key Insights
 
