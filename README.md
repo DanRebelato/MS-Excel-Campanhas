@@ -13,7 +13,7 @@ O design e a estrutura foram pensados para reproduzir a experiência de um paine
 
 > ⚠️ Por questões de confidencialidade, os dados são fictícios e utilizados apenas para fins demonstrativos.
 
-> A base de dados em Excel utilizada neste dashboard foi gerada a partir de um processo de extração, transformação e carga (ETL), envolvendo:
+A base de dados em Excel utilizada neste dashboard foi gerada a partir de um processo de extração, transformação e carga (ETL), envolvendo:
 
 - Linx: extração de relatórios customizados de faturamento e performance de vendas;
 - Google Analytics 4 (GA4): obtenção de dados de tráfego, sessões e engajamento;
