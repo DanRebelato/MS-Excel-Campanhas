@@ -40,7 +40,7 @@ The Excel dataset used in this dashboard was generated through an ETL (Extractio
 ## 💡 Key Insights
 
 - Performance monitoring by campaign, channel, and product category  
-- Tracking of engagement and **conversion rates  
+- Tracking of engagement and conversion rates  
 - Analysis of top-performing products and categories impacting revenue and sales volume  
 
 
