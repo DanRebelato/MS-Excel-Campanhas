@@ -2,13 +2,13 @@
 
 Este repositório contém o relatório desenvolvido, além de imagens de pré-visualização.
 
----
+
 
 ## 🖼 Prévia do Relatório
 
 ![Dashboard Principal](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.png)
 
----
+
 
 ## 📂 Arquivos para Download
 
@@ -16,7 +16,7 @@ Este repositório contém o relatório desenvolvido, além de imagens de pré-vi
 
 > **Obs:** Para abrir o arquivo `.xlsx`, use **Microsoft Excel** ou equivalente.
 
----
+
 
 ## 📌 Observações
 
