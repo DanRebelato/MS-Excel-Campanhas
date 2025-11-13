@@ -1,3 +1,4 @@
+[Read in English](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/README-EN.md)
 
 # 📊 Relatório de performance de campanhas de marketing em e-commerce – MS Excel
 
