@@ -33,7 +33,7 @@ A base de dados em Excel utilizada neste dashboard foi gerada a partir de um pro
 
 ## 📁 Estrutura dos Dados
 
-- [`Campanhas.xlsx`](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.xlsm)
+- [Campanhas.xlsx](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.xlsm)
 
 ## 💡 Principais Insights
 
