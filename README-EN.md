@@ -47,7 +47,7 @@ The Excel dataset used in this dashboard was generated through an ETL (Extractio
 
 ## 📬 Contact
 
-Danilo Rebelato 
+Danilo Rebelato  
 📧 Email: [dnl.rebelato@yahoo.com](mailto:dnl.rebelato@yahoo.com)  
 🔗 LinkedIn: [www.linkedin.com/in/danilorebelato](https://www.linkedin.com/in/danilorebelato)
 
