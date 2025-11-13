@@ -1,6 +1,6 @@
 # 📊 Relatório MS Excel - Campanhas
 
-Este repositório contém o relatório desenvolvido, além de imagens de pré-visualização e arquivos auxiliares.
+Este repositório contém o relatório desenvolvido, além de imagens de pré-visualização.
 
 ---
 
