@@ -30,7 +30,7 @@ The Excel dataset used in this dashboard was generated through an ETL (Extractio
 
 ## 📸 Screenshots
 
-![Main Dashboard](imagens/dashboard_principal.png)
+![Dashboard Principal](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.png)
 
 
 ## 📁 Data Structure
