@@ -3,7 +3,7 @@
 This project presents an Excel dashboard developed to analyze the performance of digital marketing campaigns in an electronics retail e-commerce context.  
 The report was created as a strategic alternative to Power BI, allowing for visual and interactive analysis directly in Excel, without requiring additional licenses or external tools.
 
-
+---
 ## 🧩 About the Project
 
 The goal of this report is to consolidate key performance indicators (KPIs) from marketing campaigns, providing a comprehensive overview of each action.  
