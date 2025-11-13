@@ -6,7 +6,7 @@ Este repositório contém o relatório desenvolvido em Power BI, incluindo image
 
 ## 🖼 Prévia do Relatório
 
-![Dashboard Principal](https://github.com/DanRebelato/PowerBI-Entregas/blob/main/Documentacao/Entregas_2023.png)
+![Dashboard Principal](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.png)
 
 ---
 
